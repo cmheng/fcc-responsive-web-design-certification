@@ -1,0 +1,12 @@
+{
+  "[html]": {
+    "editor.tabSize": 2,
+    "editor.indentSize": "tabSize",
+    "editor.detectIndentation": false
+  },
+  "[css]": {
+    "editor.tabSize": 2,
+    "editor.indentSize": "tabSize",
+    "editor.detectIndentation": false
+  }
+}
