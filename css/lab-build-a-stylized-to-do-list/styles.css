@@ -1,0 +1,57 @@
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #475569;
+}
+
+a:link {
+  color: #2563EB;
+}
+
+a:hover {
+  color: #1D4ED8;
+}
+
+a:focus {
+  border: 1px solid #EAB308;
+}
+
+a:active {
+  color:#0F172A;
+}
+
+body {
+  background-color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+}
+main {
+  width: 60%;
+  margin: 10px auto;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.todo-list {
+  margin-right: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.task {
+  list-style-type: none;
+  margin-top: 20px;
+  background-color: #EAB308;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.sub-item li {
+  list-style-type: square;
+  padding-left: 20px;
+  margin-top: 10px;
+}
