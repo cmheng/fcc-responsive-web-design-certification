@@ -3,7 +3,7 @@ Build an app that is functionally similar to this example project. Try not to co
 
 In this lab, you'll practice how to style backgrounds and borders by creating a blog post card.
 
-Objective: Fulfill the user stories below and get all the tests to pass to complete the lab.
+**Objective:** Fulfill the user stories below and get all the tests to pass to complete the lab.
 
 ## User Stories:
 
