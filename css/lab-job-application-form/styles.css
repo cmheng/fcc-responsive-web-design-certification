@@ -1,0 +1,67 @@
+label {
+  display: block;
+  margin: 5px 5px;
+}
+
+fieldset label {
+  display: inline;
+}
+
+.container {
+  margin: 20px auto;
+  width: 80vw;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.4);
+  padding: 20px 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#name, #email {
+  margin: 5px 5px;
+  width: 90%
+}
+
+fieldset {
+  margin: 5px 5px;
+  width: 90%
+}
+
+input:focus, textarea:focus {
+  border-color: blue;
+}
+
+input:invalid, select:invalid, textarea:invalid {
+  border-color: red;
+}
+
+input:valid, select:valid, textarea:valid {
+  border-color: green;
+}
+
+button {
+  display: block;
+  width: 90%;
+  margin: 10px auto;
+}
+
+button:hover {
+  background-color: darkblue;
+}
+
+.radio-group input[type="radio"]:checked {
+  border-color: white;
+  background-color: brown;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.4);
+  color: white;
+}
+
+input:first-of-type {
+  border-radius: 5px;
+}
+
+.radio-group input[type="radio"]:checked + label {
+  color: blue;
+}
