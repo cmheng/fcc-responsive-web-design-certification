@@ -1,0 +1,16 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: 0 auto;
+  width: 80vw;
+  text-align: center;
+  min-height: calc(100vh - 100px);
+}
+
+hr, section {
+  width: 80%;
+}
+
+li {
+  text-align: left;
+}
